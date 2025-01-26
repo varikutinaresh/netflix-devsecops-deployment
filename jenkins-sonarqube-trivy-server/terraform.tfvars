@@ -1,0 +1,5 @@
+vpc_id        = "vpc-094357d55cf246ebc"
+instance_type = "t2.large"
+ami           = "ami-0ac4dfaf1c5c0cce9"
+key_pair      = "netflix.pub"
+subnet_id     = "subnet-015afa6e1c5eb8125"
